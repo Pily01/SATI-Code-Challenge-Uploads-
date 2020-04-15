@@ -4,3 +4,5 @@ Que la carpeta incluya un README file con:
    - Tu nombre completo
    - Un resumen de la idea principal de tu proyecto
    - Tu mail y número telefónico
+
+Igualmente no se te olvide incluir la hoja de términos y condiciones firmada.
